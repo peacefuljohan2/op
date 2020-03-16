@@ -10,5 +10,5 @@
         { "item": "copper", "amount": 0 }
     ],
     "category": "upgrade",
-    "research": "delta-mech-pad"
+    "research": "mechanical-drill"
 }
